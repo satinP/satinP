@@ -1,6 +1,6 @@
 # Pedro Satin
 
-Enthusiast of software development technologies.
+Enthusiast of software development and technologies.
 
 ✉️ Contact me at:
 
