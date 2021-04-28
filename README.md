@@ -1,8 +1,10 @@
 # Pedro Satin
 
-Working as a Software Engineer and in my last semester of Software Engineer Bachelor Degree.
+Working as a Software Engineer and in the last semester of Software Engineer Bachelor Degree.
 
 Completely passionate about technologies with the goal to contribute more in the open source community. 
+
+Currently studying about Software Architecture and Cloud Computing.
 
 
 You can find or contact me at:
