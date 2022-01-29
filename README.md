@@ -1,10 +1,10 @@
 # Pedro Satin
 
-Working as a Software Engineer. In the last semester of Software Engineer Bachelor.
+Graduated in Software Engineering (bachelor) and currently working as a Frontend engineer at Banco Inter.
 
 Completely passionate about technologies with the goal to contribute more in the open source community. 
 
-Currently studying about Software Architecture and Cloud Computing.
+Currently studying about Software Architecture, Cloud Computing and Blockchain.
 
 
 You can find or contact me at:
