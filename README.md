@@ -1,9 +1,6 @@
 # Pedro Satin
 
-Graduated in Software Engineering (bachelor), currently working as a Frontend engineer at Banco Inter and as a Teacher at Cesumar.
-
-Completely passionate about technologies and sharing knowledge, with the goal to contribute more in the open source community. 
-
+Hello there! 
 
 You can find or contact me at:
 
